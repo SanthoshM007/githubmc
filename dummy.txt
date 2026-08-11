@@ -1,1 +1,6 @@
 thsi dummy bava
+
+.git folder /home/santprime/githubmc/.git/, is the bridge between my local and remote(github) repo
+
+
+staging is the working directory adn remote repo of between stage
