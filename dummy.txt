@@ -4,3 +4,20 @@ thsi dummy bava
 
 
 staging is the working directory adn remote repo of between stage
+
+
+workflow
+
+git add -> working dir files go to staging
+
+git commit -> staging files go to remote repo , but directly it was not going, the main purpose is to saving the local changes in gihub repo, 
+
+git push
+
+
+push vs commit
+
+
+git switch -c feature/multiplication
+
+here -c - create branch
