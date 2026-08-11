@@ -24,3 +24,14 @@ here -c - create branch
 
 git push -u origin <branchname>
 -u - here featue branh why i give firsy tiemonyl up
+
+
+
+
+
+from main -> git merge feaure/mulitpicaion
+
+after also git push is madeotry,
+
+
+now pr requrest, base is our prodction branch, compre to my feaure iimplented branch, 
