@@ -21,3 +21,6 @@ push vs commit
 git switch -c feature/multiplication
 
 here -c - create branch
+
+git push -u origin <branchname>
+-u - here featue branh why i give firsy tiemonyl up
